@@ -1,1 +1,1 @@
-web: gunicorn hospago.wsgi --log-file
+web: gunicorn hospago.wsgi 
