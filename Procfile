@@ -1,0 +1,1 @@
+web: gunicorn hospago.wsgi --log-file
